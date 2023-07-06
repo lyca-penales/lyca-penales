@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lyca Penales.
-- 👀 I’m interested in Python programming and Cybersecurity.
-- 🌱 I’m currently learning the basics of cybersecurity and android app development.
+- 👀 I’m interested in Python programming, Machine Learning, Deep Learning, Data Science and Cybersecurity.
+- 🌱 I’m currently learning the basics of cybersecurity, web, and mobile app development.
